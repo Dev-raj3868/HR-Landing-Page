@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
 
-## Project info
+# 💼 HR Consultancy Landing Page
 
-**URL**: https://lovable.dev/projects/816a66d6-7643-4fbd-a4f6-076ec6b64fb2
+Welcome to the **HR Consultancy Landing Page** – a modern, responsive, and professional web solution tailored for service providers and tech consulting firms. This landing page is designed to leave a strong first impression with clean UI, smooth interactions, and optimized performance.
 
-## How can I edit this code?
+🔗 **Live Site:** https://hrconsultancys.netlify.app/
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/816a66d6-7643-4fbd-a4f6-076ec6b64fb2) and start prompting.
+* 🧠 Clean and professional layout for IT services
+* 📱 Fully responsive design for all devices
+* 🎯 Call-to-action sections for lead generation
+* 💬 Contact section for easy customer reach-out
+* ⚡ Fast loading and smooth scrolling experience
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* 🧩 **HTML5** – Markup structure
+* 🎨 **CSS3** – Styling and layout
+* 🧪 **JavaScript (ES6)** – Interactive elements
+* ⚛️ **React.js** – Component-based architecture (if React was used)
+* 🌐 **Netlify** – For live deployment and hosting
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+> *Built with clean, semantic code and a focus on user experience.*
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Folder Structure (Optional)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+it-consultancy-landing/
+│
+├── public/                # Static files
+├── src/                   # Source code (if using React)
+│   ├── components/        # Reusable UI components
+│   ├── App.js             # Main app file
+│   └── index.js           # Entry point
+├── index.html             # Root HTML file (if plain HTML)
+├── style.css              # Main styles
+└── README.md              # This file
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📸 Preview
 
-**Use GitHub Codespaces**
+https://hrconsultancys.netlify.app/
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/816a66d6-7643-4fbd-a4f6-076ec6b64fb2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
